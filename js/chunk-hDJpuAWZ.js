@@ -113,7 +113,7 @@ const y = {
                 class: "p-0 m-0 hover:text-primary",
                 href: "",
                 target: "_blank"
-            }, "", )), m("p", null, [d("power" + k(b(T)) + " by ", 1), a[0] || (a[0] = m("a", {
+            }, "", )), m("p", null, [d("Copyright ©  " + k(b(T)) + " - All right reserved by ", 1), a[0] || (a[0] = m("a", {
                 class: "link link-primary",
                 href: "https://github.com/LOG1997",
                 target: "_blank"
