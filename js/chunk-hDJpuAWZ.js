@@ -104,16 +104,16 @@ const y = {
             }, k(e.meta.title), 13, L))]))), 128))]), h(l, {
                 class: "flex-1 mt-5"
             })]), m("footer", j, [m("nav", E, [m("a", G, k(b(I)("footer.self-reflection")), 1)]), m("nav", null, [m("a", O, k(b(I)("footer.thiefEasy")), 1)]), m("nav", null, [m("div", q, [m("a", z, [h(n, {
-                name: "github"
+                name: ""
             })]), m("a", A, [h(n, {
-                name: "twitter"
+                name: ""
             })]), m("a", B, [h(n, {
-                name: "instagram"
+                name: ""
             })])])]), m("aside", null, [a[1] || (a[1] = m("a", {
                 class: "p-0 m-0 hover:text-primary",
                 href: "",
                 target: "_blank"
-            }, "", )), m("p", null, [d("Copyright © " + k(b(T)) + " - All right reserved by ", 1), a[0] || (a[0] = m("a", {
+            }, "", )), m("p", null, [d("power" + k(b(T)) + " by ", 1), a[0] || (a[0] = m("a", {
                 class: "link link-primary",
                 href: "https://github.com/LOG1997",
                 target: "_blank"
