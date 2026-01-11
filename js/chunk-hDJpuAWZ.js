@@ -42,7 +42,7 @@ const y = {
     class: "cursor-pointer text-inherit"
 }
   , A = {
-    href: "",
+    href: "https://github.com/log1997",
     target: "_blank",
     class: "cursor-pointer"
 }
@@ -104,7 +104,7 @@ const y = {
             }, k(e.meta.title), 13, L))]))), 128))]), h(l, {
                 class: "flex-1 mt-5"
             })]), m("footer", j, [m("nav", E, [m("a", G, k(b(I)("footer.self-reflection")), 1)]), m("nav", null, [m("a", O, k(b(I)("footer.thiefEasy")), 1)]), m("nav", null, [m("div", q, [m("a", z, [h(n, {
-                name: ""
+                name: "github"
             })]), m("a", A, [h(n, {
                 name: ""
             })]), m("a", B, [h(n, {
